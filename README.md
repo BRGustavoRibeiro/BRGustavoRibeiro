@@ -11,6 +11,7 @@ I'm a freelancer. Learning Rust. Loving Svelte. I probably code what you want me
 - 🔦 Professional lighting
 - 🎥 Audio and video / Radio and TV
 - 🎹 Electronic music
+
 and I love to talk about a lot of other topics too.
 
 ***JavaScript** • TypeScript • **C#** • VB.net • **VBScript/VB6** • Rust • **C/C++** • React • **Next.js** • Svelte • **jQuery** • TailwindCSS • **Bootstrap** • Node.js • **ASP.net/ASP** • PHP • **Laravel** • MySQL • **PostgreSQL** • SQL Server • **Oracle** • MongoDB • **SQLite** • Windows Server • **CentOS** • Linux • **Git** • VS Code • **Visual Studio** • Webstorm • **DataGrip** • Azure DevOps • **Jira** • Trello • **cPanel/WHM** • Plesk • **AWS** • Azure • **Apache** • NGINX • **EA** • WordPress • **Joomla** • Adobe Creative Cloud*
